@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @kalpeshkatariya<br>- 👀 I’m interested in ...Frontend Developer<br>- 🌱 I’m currently learning ...HTML,CSS,Javascript,ReactJS<br>- 📫 How to reach me ...kkatariya05@gmail.com
+- 👋 Hi, I’m @kalpeshkatariya<br>- 👀 I’m interested in ...Full stack Developer/Frontend Developer/Back-end Developer<br>- 🌱 I’m currently learning ...HTML,CSS,Javascript,ReactJS<br>- 📫 How to reach me ...kkatariya05@gmail.com
 
 
 ## 🌐 Socials:
